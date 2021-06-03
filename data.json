@@ -1,0 +1,10 @@
+{
+  "Packages":
+  [
+    {
+      "id": "test1",
+      "version": "1.0.0.0",
+      "download": "https://foo.bar.com"
+    }
+  ]
+}
